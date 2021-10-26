@@ -15,7 +15,7 @@
 
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />]() <br>
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:trannhan380381@gmail.com): trannhan380381@gmail.com <br>
-📞 0908380381
+
 
 <br />
 
