@@ -1,10 +1,10 @@
 ### Hello, I'm Nhan Tran - aka Lucas 👋
 
-## I'm a University Student, Backend Dev!!
+## I'm a University Student major Software Engineering!
 
 - 🔭 I am FPT university student! 
-- 🌱 I’m currently learning design pattern, design database, ... 🤣
-- 🥅 2020 Goals: Learning and improve skills: architect, English... 
+- 🌱 I’m currently learning in fpt university, ... 🤣
+- 🥅 Goals: Learning and improve skills: SE skills, architect, English... 
 - ⚡ Fun fact: I love to reading book about history and listen pop
 
 ### Youtube music Playing 🎧
