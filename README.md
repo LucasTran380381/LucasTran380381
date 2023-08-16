@@ -23,7 +23,8 @@ A coder with love in Java
                     </picture>
                     </a>
   </p>
- ### Badges
+
+  ### Badges
 
 <b>My GitHub Stats</b>
 
