@@ -8,9 +8,9 @@ A coder with love in Java
 
 *   🌍  I'm based in Binh Tan, Ho Chi Minh
 *   ✉️  You can contact me at [trannhan380381@gmail.com](mailto:trannhan380381@gmail.com)
-*   🚀  I'm currently working on [Bosch Global Software Technologies Company Limited](http://www.bosch.com.vn/our-company/bosch-in-vietnam/ho-chi-minh-city-rbvh/)
-*   🧠  I'm learning Spring Framework
-*   🤝  I'm open to collaborating on Interesting project relevant to Backend, AI, Database
+*   🚀  I'm currently working on [Trobz Consulting](https://trobz.com/vi_VN/)
+*   🧠  I'm Odoo developer
+*   🤝  I'm open to collaborating on Interesting project relevant to Odoo Framework, ERP,...
 *   ⚡  Also a racer ... but not tell to anyone
                     
   ### Socials
